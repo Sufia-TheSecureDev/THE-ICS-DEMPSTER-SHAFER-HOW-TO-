@@ -1,5 +1,5 @@
 # THE-ICS-DEMPSTER-SHAFER-HOW-TO
-Basically this is a paper(THE ICS DEMPSTER-SHAFER HOW TO  by  THE ICS DEMPSTER-SHAFER HOW TO ) which we implement for our Artificial Inteligence lab project.
+Basically this is a paper(THE ICS DEMPSTER-SHAFER HOW TO  by  Pia Gustafsson, Robert Lagerström, Per Närman, Mårten Simonsson ) which we implement for our Artificial Inteligence lab project.
 
 
 
